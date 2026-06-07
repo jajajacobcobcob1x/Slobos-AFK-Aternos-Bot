@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lampfish.aternos.host:50020",
+    "ip": "LifeStealUniverseV2.aternos.me",
     "port": 50020,
     "version": "1.17",
     "try-creative": false
