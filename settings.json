@@ -8,7 +8,7 @@
   "server": {
     "ip": "lampfish.aternos.host:50020",
     "port": 50020,
-    "version": "26.1",
+    "version": "1.17",
     "try-creative": false
   },
   "position": {
