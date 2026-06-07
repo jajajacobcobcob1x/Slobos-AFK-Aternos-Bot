@@ -26,11 +26,10 @@
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
- {
+"chat-messages": {
+  "enabled": true,
+  "repeat": true,
+  "repeat-delay": 120,
   "messages": [
     "did you know? you cannot burp in space the same way you do on Earth because gas and liquid do not separate normally in microgravity.",
     "tip: in Minecraft, always keep an escape route before you take a fight.",
@@ -106,8 +105,8 @@
     "tip: trust should be earned through actions, not words.",
     "did you know? some species of frogs can glow under ultraviolet light.",
     "tip: if a fight feels bad, reset it instead of forcing it."
-      ]
-    },
+  ]
+},
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
